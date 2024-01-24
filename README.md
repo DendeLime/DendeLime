@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Denver Grevious
+- 💻 I've been coding for over 4 years, primarily in Kotlin/Python/JavaScript
+- 🌱 I’m currently learning c# and AI SaaS skills
+
 
 <!--
 **DendeLime/DendeLime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
