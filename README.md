@@ -1,5 +1,5 @@
 ### Hi, I'm Denver Grevious
-- 💻 I've been coding for over 4 years, primarily in Kotlin/Python/JavaScript
+- 💻 I've been coding for over 4 years, primarily in Kotlin/Python/JavaScript/Java
 - 🌱 I’m currently learning more about using c# and AI SaaS skills
 
 
