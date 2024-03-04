@@ -1,7 +1,7 @@
 ### Hi, I'm Denver Grevious
 - 💻 I've been coding for over 4 years, primarily in Kotlin/Python/JavaScript/Java
-- 🌱 I’m currently learning more about c#
-- 🛰 I’m currently working on a making a Text Editor
+- 🌱 I’m currently learning more about C++
+- 🛰 I’m currently working on making a Text Editor
 
 <!--
 **DendeLime/DendeLime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
